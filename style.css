@@ -68,7 +68,7 @@
 }
 
 #news
-{	
+{
 	float: left;
 	width: 40%;
 	padding: 20px;
@@ -92,4 +92,8 @@
 	text-align: right;
 	padding: 20px;
 	height: 1%;
+}
+
+#news > h2 {
+	color: blue;
 }
