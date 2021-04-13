@@ -57,7 +57,7 @@ html {
 	background-color : white;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	opacity: 0.83;
+	opacity: 0.63;
 }
 
 #edito h2
@@ -81,10 +81,10 @@ html {
 	background-image: linear-gradient(left, #59B1CF, #FFFFFF);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	opacity: 0.83;
+	opacity: 0.73;
     transition:  transform 500ms; 
     transform: translate3d(0,0,0) scale(1.15);
-     width: 80%; 
+    width: 80%; 
     margin-left: 9%;
 }
 
